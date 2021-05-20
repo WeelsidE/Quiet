@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'mons', sans-serif;
+  src: url("../fonts/Montserrat/Montserrat-Black.ttf");
+  src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+  src: url("../fonts/Montserrat/Montserrat-Thin.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Anony', monospace;
+  src: url("../fonts/Anonymous_Pro/AnonymousPro-Bold.ttf;");
+  src: url("../fonts/Anonymous_Pro/AnonymousPro-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sim', monospace;
+  src: url("../fonts/SimSun/Simsun.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
